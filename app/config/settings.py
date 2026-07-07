@@ -5,7 +5,7 @@ class Settings(BaseSettings):
     app_env: str = "development"
     app_host: str = "0.0.0.0"
     app_port: int = 8000
-    gemini_api_key: str = ""
+    gemini_api_key: str =""
     gemini_model: str = "gemini-2.5-flash"
     embedding_model: str = "intfloat/multilingual-e5-base"
     vector_db_path: str = "./chroma_db"
