@@ -1,0 +1,1 @@
+Full content from response-model.md

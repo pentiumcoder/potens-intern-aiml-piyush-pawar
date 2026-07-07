@@ -1,0 +1,1 @@
+Full content from the path-operation-configuration.md page as extracted.
