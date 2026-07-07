@@ -1,5 +1,7 @@
 from fastapi import FastAPI
 
+from app.api.routes import router
+
 
 app = FastAPI(
     title="Potens Document QA API",
@@ -7,6 +9,4 @@ app = FastAPI(
 )
 
 
-@app.get("/health", tags=["health"])
-def health_check() -> dict[str, str]:
-    return {"status": "ok"}
+app.include_router(router)

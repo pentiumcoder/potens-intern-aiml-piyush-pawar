@@ -1,0 +1,9 @@
+Using only the retrieved documentation evidence, determine whether the two statements contradict each other.
+
+Statement A:
+{statement_a}
+
+Statement B:
+{statement_b}
+
+Return a concise answer that says whether a contradiction is present and why.
