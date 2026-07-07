@@ -325,6 +325,25 @@ docker run -p 8000:8000 document-qa
  
 
 ---
+# 🤖 AI Tool Usage Disclosure
+
+This project was developed with the assistance of multiple AI tools for learning, implementation guidance, debugging, documentation, and code review. All architectural decisions, integration, testing, and final implementation were reviewed and validated manually.
+
+| AI Tool | Approx. Usage | Approx. Tokens | Purpose |
+|----------|--------------:|---------------:|---------|
+| **ChatGPT (GPT-5.5)** | ~350–400 messages | ~250K tokens | Architecture planning, implementation guidance, debugging, code reviews, prompt engineering, project planning, README drafting, testing strategy, Git troubleshooting, and final submission preparation. |
+| **OpenAI Codex** | ~45–60 prompts | ~77K tokens | Sprint-by-sprint implementation (Sprint 0–5), code scaffolding, unit tests, Streamlit UI generation, and bug fixing. |
+| **Claude** | ~20–30 prompts | ~60K tokens | Alternative code reviews, architecture validation, implementation suggestions, and cross-checking design decisions. |
+| **Google AI Studio (Gemini)** | ~15–20 prompts | ~25K tokens | Prompt experimentation, API validation, response quality testing, multilingual verification, and grounding behavior checks. |
+| **GitHub Copilot** | Occasional | ~10K tokens | Inline code completion, boilerplate generation, and productivity improvements while coding in Visual Studio Code. |
+| **Stack Overflow** | Occasional | N/A | Referenced for troubleshooting specific Python, FastAPI, Streamlit, Docker, and Git issues. |
+| **Official Documentation**<br>(FastAPI, Streamlit, ChromaDB, SentenceTransformers, Google GenAI) | Frequent | N/A | API references, SDK usage, configuration guidance, and implementation best practices. |
+
+---
+
+### Responsible Use of AI
+
+AI tools were used as development assistants to accelerate implementation, debugging, documentation, and validation. All generated code, architectural decisions, integrations, and final project deliverables were manually reviewed, tested, and adapted to meet the assignment requirements.
 
 ## 👨‍💻 Author
 
