@@ -321,7 +321,9 @@ docker run -p 8000:8000 document-qa
 
 | Streamlit UI | Swagger API | Architecture |
 |---|---|---|
-| `assets/streamlit-ui.png` | `assets/swagger-ui.png` | `assets/architecture.png` |
+| <img width="2551" height="1082" alt="image" src="https://github.com/user-attachments/assets/ec2b68df-8b98-4d1d-aae9-66443b91350d" />
+ | <img width="2495" height="1384" alt="image" src="https://github.com/user-attachments/assets/ad6578a5-1c14-4ab3-b652-a03397440a32" />
+ | `assets/architecture.png` |
 
 ---
 
