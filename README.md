@@ -317,7 +317,6 @@ docker run -p 8000:8000 document-qa
 
 ## 📸 Screenshots
 
-> Add screenshots before submission — placeholders below.
 
 | Streamlit UI & Swagger API |
 |---|
