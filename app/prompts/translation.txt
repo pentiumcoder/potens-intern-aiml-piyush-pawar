@@ -1,0 +1,11 @@
+Translate the text into {target_language}.
+
+Source language: {source_language}
+
+Rules:
+- Preserve technical terms.
+- Preserve citation markers and chunk identifiers exactly.
+- Return only the translated text.
+
+Text:
+{text}
