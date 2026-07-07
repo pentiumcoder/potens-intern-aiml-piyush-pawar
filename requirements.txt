@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+chromadb
+sentence-transformers
+PyMuPDF
+google-genai
+pydantic-settings
+python-dotenv
+lingua-language-detector
+pytest
+black
+ruff
